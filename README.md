@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech 1st Year Student
+* 🎓 B.Tech 2st Year Student
 * 💻 Focused on **DSA, C++, JavaScript, Node.js, Express.js**
 * 🌱 Currently learning **Backend Development + Problem Solving**
-* 📚 Dedicated around **4 hours/day to DSA practice**
-* 🎯 Goal: **Internship + Placement-ready profile**
+* 📚 Dedicated around **Try To Solve Problem Daily Basis to DSA practice**
+* 🎯 Goal: **Aspiring to become a skilled developer who can solve real-world problems and deliver efficient, scalable solutions.**
 
 ---
 
@@ -36,7 +36,7 @@
 ## 💻 LeetCode / DSA Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sainiankit1287-prog?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/j9DDHmI2J4?theme=dark&font=baloo&ext=contest" />
 </p>
 
 * 🧠 Solving problems on **Arrays, Strings, Linked Lists, Recursion, DP**
@@ -46,9 +46,9 @@
 
 ## 🧠 DSA Progress
 
-* ✅ **150+ DSA problems solved**
+* ✅ **70+ DSA problems solved**
 * 📚 Topics: Arrays, Strings, Linked Lists, Recursion, Sorting, Searching, Basic DP
-* 🎯 Goal: **300+ problems before 2nd year**
+* 🎯 Goal: **200+ problems before 2nd year**
 
 ---
 
@@ -90,12 +90,12 @@ A collection of optimized **C++ solutions** for coding interview questions and c
   <a href="https://github.com/sainiankit1287-prog">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <!-- <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/">
+  </a> -->
+  <!-- <a href="https://www.instagram.com/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a> -->
 </p>
 
 ---
