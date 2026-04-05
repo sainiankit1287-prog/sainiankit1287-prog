@@ -56,7 +56,7 @@
 
 ### 🌐 Portfolio Website
 
-Check out my portfolio: [https://my-protfolio-q6ms-79u85aewq-ankitsainilaptop-1617s-projects.vercel.app/](https://my-protfolio-q6ms-79u85aewq-ankitsainilaptop-1617s-projects.vercel.app/)
+Check out my portfolio: [https://my-protfolio-q6ms-79u85aewq-ankitsainilaptop-1617s-projects.vercel.app/](https://my-protfolio-q6ms.vercel.app/)
 
 ### 📄 Online Resume Builder
 
