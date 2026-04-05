@@ -36,7 +36,7 @@
 ## 💻 LeetCode / DSA Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/j9DDHmI2J4?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/sainiankit1287-prog?theme=dark&font=baloo&ext=contest" />
 </p>
 
 * 🧠 Solving problems on **Arrays, Strings, Linked Lists, Recursion, DP**
