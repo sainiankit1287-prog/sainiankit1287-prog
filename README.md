@@ -56,7 +56,7 @@
 
 ### 🌐 Portfolio Website
 
-Check out my portfolio: [https://my-protfolio-q6ms.vercel.app/](https://sainiankit1287-prog-dev.vercel.app/)
+Check out my portfolio: [https://sainiankit1287-prog-dev.vercel.app/](https://sainiankit1287-prog-dev.vercel.app/)
 
 ### 📄 Online Resume Builder
 
