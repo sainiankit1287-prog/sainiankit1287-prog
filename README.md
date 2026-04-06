@@ -83,7 +83,7 @@ A collection of optimized **C++ solutions** for coding interview questions and c
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sainiankit1287-prog/sainiankit1287-prog/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sainiankit1287-prog/sainiankit1287-prog/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
