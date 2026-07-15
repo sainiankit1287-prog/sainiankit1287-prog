@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech 2st Year Student
+* 🎓 B.Tech 3rd Year Student
 * 💻 Focused on **DSA, C++, JavaScript, Node.js, Express.js**
 * 🌱 Currently learning **Backend Development + Problem Solving**
 * 📚 Dedicated around **Try To Solve Problem Daily Basis to DSA practice**
@@ -46,9 +46,9 @@
 
 ## 🧠 DSA Progress
 
-* ✅ **70+ DSA problems solved**
+* ✅ **DSA problems solving**
 * 📚 Topics: Arrays, Strings, Linked Lists, Recursion, Sorting, Searching, Basic DP
-* 🎯 Goal: **200+ problems before 2nd year**
+* 🎯 Goal: **improove myself**
 
 ---
 
