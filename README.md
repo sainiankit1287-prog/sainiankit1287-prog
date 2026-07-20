@@ -33,6 +33,7 @@
 
 ---
 
+<!--
 ## 💻 LeetCode / DSA Journey
 
 <p align="center">
@@ -48,9 +49,8 @@
 
 * ✅ **DSA problems solving**
 * 📚 Topics: Arrays, Strings, Linked Lists, Recursion, Sorting, Searching, Basic DP
-* 🎯 Goal: **improove myself**
-
----
+* 🎯 Goal: **Improve myself**
+-->
 
 ## 🚀 Featured Projects
 
